@@ -1,0 +1,162 @@
+[
+  {
+        "_id" : ObjectId("60e983d6c733335750779bba"),
+        "movie_name" : "aarya",
+        "imdb_rating" : 8.1,
+        "genre" : "suspense",
+        "feedback" : 12094,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bbb"),
+        "movie_name" : "toofan",
+        "imdb_rating" : 8.6,
+        "genre" : "sports",
+        "feedback" : 34789,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bbc"),
+        "movie_name" : "mirzapur",
+        "imdb_rating" : 9.2,
+        "genre" : "thriller",
+        "feedback" : 12456,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bbd"),
+        "movie_name" : "family man",
+        "imdb_rating" : 9.4,
+        "genre" : "thriller",
+        "feedback" : 34569,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bbe"),
+        "movie_name" : "special ops",
+        "imdb_rating" : 9.2,
+        "genre" : "suspense",
+        "feedback" : 34760,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bbf"),
+        "movie_name" : "dhishoom",
+        "imdb_rating" : 5.4,
+        "genre" : "comedy",
+        "feedback" : 67892,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc0"),
+        "movie_name" : "haseen dilruba",
+        "imdb_rating" : 8.8,
+        "genre" : "suspense",
+        "feedback" : 23907,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc1"),
+        "movie_name" : "bodyguard",
+        "imdb_rating" : 5.6,
+        "genre" : "drama",
+        "feedback" : 54376,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc2"),
+        "movie_name" : "dilwale",
+        "imdb_rating" : 6.2,
+        "genre" : "romantic",
+        "feedback" : 34218,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc3"),
+        "movie_name" : "raazi",
+        "imdb_rating" : 7.8,
+        "genre" : "thriller",
+        "feedback" : 12367,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc4"),
+        "movie_name" : "uri",
+        "imdb_rating" : 9.5,
+        "genre" : "suspense",
+        "feedback" : 45097,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc5"),
+        "movie_name" : "ghazi attack",
+        "imdb_rating" : 6.4,
+        "genre" : "thriller",
+        "feedback" : 78563,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc6"),
+        "movie_name" : "raees",
+        "imdb_rating" : 6.8,
+        "genre" : "drama",
+        "feedback" : 36791,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc7"),
+        "movie_name" : "pathan",
+        "imdb_rating" : 8.8,
+        "genre" : "drama",
+        "feedback" : 46782,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc8"),
+        "movie_name" : "tiger zinda hai",
+        "imdb_rating" : 9.2,
+        "genre" : "suspense",
+        "feedback" : 89765,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bc9"),
+        "movie_name" : "raat akeli hai",
+        "imdb_rating" : 7.8,
+        "genre" : "romantic",
+        "feedback" : 34567,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bca"),
+        "movie_name" : "sacred games",
+        "imdb_rating" : 8.2,
+        "genre" : "thriller",
+        "feedback" : 4567,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bcb"),
+        "movie_name" : "out of love",
+        "imdb_rating" : 8.6,
+        "genre" : "romantic",
+        "feedback" : 45634,
+        "referrable" : "FALSE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bcc"),
+        "movie_name" : "sanju",
+        "imdb_rating" : 9.2,
+        "genre" : "drama",
+        "feedback" : 23456,
+        "referrable" : "TRUE"
+}
+{
+        "_id" : ObjectId("60e983d6c733335750779bcd"),
+        "movie_name" : "deewar",
+        "imdb_rating" : 7.2,
+        "genre" : "drama",
+        "feedback" : 35698,
+        "referrable" : "TRUE"
+}
+]
