@@ -14,43 +14,43 @@
 
  db.films.aggregate([{ $match : { genre : "thriller"}}]).pretty()
 {
-        "_id" : ObjectId("60e983d6c733335750779bbc"),
-        "movie_name" : "mirzapur",
-        "imdb_rating" : 9.2,
+        "_id" : ObjectId("61e983d6c733335750779bbc"),
+        "movie_name" : " V ",
+        "imdb_rating" : 9.3,
         "genre" : "thriller",
-        "feedback" : 12456,
+        "feedback" : 12345,
         "referrable" : "TRUE"
 }
 {
-        "_id" : ObjectId("60e983d6c733335750779bbd"),
-        "movie_name" : "family man",
-        "imdb_rating" : 9.4,
+        "_id" : ObjectId("61e983d6c733335750779bbd"),
+        "movie_name" : "Poison",
+        "imdb_rating" : 9.1,
         "genre" : "thriller",
-        "feedback" : 34569,
+        "feedback" : 23457,
         "referrable" : "TRUE"
 }
 {
-        "_id" : ObjectId("60e983d6c733335750779bc3"),
-        "movie_name" : "raazi",
-        "imdb_rating" : 7.8,
+        "_id" : ObjectId("61e983d6c733335750779bc3"),
+        "movie_name" : "Alive",
+        "imdb_rating" : 7.2,
         "genre" : "thriller",
-        "feedback" : 12367,
+        "feedback" : 12378, 
         "referrable" : "FALSE"
 }
 {
-        "_id" : ObjectId("60e983d6c733335750779bc5"),
-        "movie_name" : "ghazi attack",
-        "imdb_rating" : 6.4,
+        "_id" : ObjectId("61e983d6c733335750779bc5"),
+        "movie_name" : "Red",
+        "imdb_rating" : 6.1,
         "genre" : "thriller",
-        "feedback" : 78563,
+        "feedback" : 67891,
         "referrable" : "TRUE"
 }
 {
-        "_id" : ObjectId("60e983d6c733335750779bca"),
-        "movie_name" : "sacred games",
-        "imdb_rating" : 8.2,
+        "_id" : ObjectId("61e983d6c733335750779bca"),
+        "movie_name" : "Family man",
+        "imdb_rating" : 9.2,
         "genre" : "thriller",
-        "feedback" : 4567,
+        "feedback" : 34678,
         "referrable" : "FALSE"
 }
 
